@@ -1,0 +1,14 @@
+Sat, 17 Feb 2018 22:48:09 +0000
+README.rdoc	Sat, 17 Feb 2018 22:27:39 +0000
+app/controllers/application_controller.rb	Sat, 17 Feb 2018 22:27:39 +0000
+app/controllers/articles_controller.rb	Sat, 17 Feb 2018 22:28:18 +0000
+app/controllers/categories_controller.rb	Sat, 17 Feb 2018 22:27:39 +0000
+app/controllers/home_controller.rb	Sat, 17 Feb 2018 22:27:39 +0000
+app/controllers/photos_controller.rb	Sat, 17 Feb 2018 22:27:39 +0000
+app/controllers/proverbs_controller.rb	Sat, 17 Feb 2018 22:27:39 +0000
+app/helpers/application_helper.rb	Sat, 17 Feb 2018 22:27:39 +0000
+app/models/article.rb	Sat, 17 Feb 2018 22:42:41 +0000
+app/models/category.rb	Sat, 17 Feb 2018 22:28:18 +0000
+app/models/photo.rb	Sat, 17 Feb 2018 22:27:39 +0000
+app/models/proverb.rb	Sat, 17 Feb 2018 22:27:39 +0000
+app/uploaders/image_uploader.rb	Sat, 17 Feb 2018 22:27:39 +0000
